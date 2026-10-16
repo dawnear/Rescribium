@@ -50,4 +50,4 @@ Config/       # Info.plist
 
 ## License
 
-MIT
+Apache 2.0 — Copyright 2026 Dawnear and Ecotone Studio
