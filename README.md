@@ -1,8 +1,6 @@
 # Rescribium
 
-A native macOS app that adds a searchable, selectable OCR text layer to scanned PDFs using **Apple Vision** — with [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) handling the PDF pipeline via the [OCRmyPDF-AppleOCR](https://github.com/mkyt/OCRmyPDF-AppleOCR) plugin. Fast, accurate, and 100% on-device.
-
-Built with SwiftUI. No Electron, no cloud, no Tesseract.
+Add a searchable, selectable text layer to scanned PDFs with **Apple Vision OCR**. A native SwiftUI macOS app powered by [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) via [OCRmyPDF-AppleOCR](https://github.com/mkyt/OCRmyPDF-AppleOCR). Fast, private, fully on-device.
 
 ## Features
 
